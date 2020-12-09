@@ -1,0 +1,4 @@
+2020-12-09 10:29:20,684 INFO  [log] 1818
+2020-12-09 10:30:04,560 INFO  [log] 1819
+2020-12-09 10:30:47,143 INFO  [log] Status =FINISHED, time taken to complete execution is 43934 ms
+2020-12-09 10:30:47,171 INFO  [log] number of test steps executed are 6

@@ -1,0 +1,69 @@
+2020-12-09 10:26:59,416 WARN  [SoapUI] Missing folder [C:\IBMProjects\UPSKILL PROGRAM\APITest\APITesting\my-app\ext] for external libraries
+2020-12-09 10:26:59,777 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\DebasisDebasis\soapui-settings.xml]
+2020-12-09 10:27:01,738 INFO  [WsdlProject] Loaded project from [file:/C:/IBMProjects/UPSKILL%20PROGRAM/APITest/APITesting/my-app/SalesOrderManagement-soapui-project.xml]
+2020-12-09 10:27:02,673 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [SalesOrderManagement]
+2020-12-09 10:27:02,678 INFO  [SoapUITestCaseRunner] Running Project [SalesOrderManagement], runType = SEQUENTIAL
+2020-12-09 10:27:02,708 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_012]
+2020-12-09 10:27:02,744 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:27:02,864 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2020-12-09 10:27:03,255 INFO  [SoapUITestCaseRunner] running step [Create SalesOrder]
+2020-12-09 10:27:34,983 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:27:34,983 INFO  [SoapUITestCaseRunner] running step [Get SaleaOrder]
+2020-12-09 10:28:32,289 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:32,290 INFO  [SoapUITestCaseRunner] running step [Property Transfer1]
+2020-12-09 10:28:32,304 INFO  [SoapUITestCaseRunner] running step [GetSalesOrderByID]
+2020-12-09 10:28:33,774 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:33,775 INFO  [SoapUITestCaseRunner] running step [GetSOStatus]
+2020-12-09 10:28:34,936 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:34,938 INFO  [SoapUITestCaseRunner] running step [CancelSO]
+2020-12-09 10:28:36,256 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:36,257 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_012], time taken: 93466ms, status: FINISHED
+2020-12-09 10:28:36,266 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_012]
+2020-12-09 10:28:36,273 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:28:36,275 INFO  [SoapUITestCaseRunner] running step [Create SalesOrder]
+2020-12-09 10:28:37,301 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:28:37,303 INFO  [SoapUITestCaseRunner] running step [Get SaleaOrder]
+2020-12-09 10:29:14,348 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:14,348 INFO  [SoapUITestCaseRunner] running step [GetSalesOrderByID]
+2020-12-09 10:29:17,195 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:17,197 INFO  [SoapUITestCaseRunner] running step [GetSOStatus]
+2020-12-09 10:29:18,035 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:18,036 INFO  [SoapUITestCaseRunner] running step [CancelSO]
+2020-12-09 10:29:18,975 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:18,976 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_012], time taken: 42684ms, status: FINISHED
+2020-12-09 10:29:18,980 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_012]
+2020-12-09 10:29:18,989 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:29:18,990 INFO  [SoapUITestCaseRunner] running step [Create SO]
+2020-12-09 10:29:20,684 INFO  [log] 1818
+2020-12-09 10:29:20,729 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:20,729 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 10:29:20,731 INFO  [SoapUITestCaseRunner] running step [Get SO]
+2020-12-09 10:29:58,928 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:58,929 INFO  [SoapUITestCaseRunner] running step [GetSOByID]
+2020-12-09 10:29:59,933 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:29:59,934 INFO  [SoapUITestCaseRunner] running step [GetSOStatus]
+2020-12-09 10:30:01,058 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:01,058 INFO  [SoapUITestCaseRunner] running step [CancelSO]
+2020-12-09 10:30:03,112 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:03,112 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_012], time taken: 44106ms, status: FINISHED
+2020-12-09 10:30:03,115 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_012_GroovyExecution]
+2020-12-09 10:30:03,116 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-12-09 10:30:03,174 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [TC_012]
+2020-12-09 10:30:03,176 INFO  [SoapUITestCaseRunner] running step [Properties]
+2020-12-09 10:30:03,178 INFO  [SoapUITestCaseRunner] running step [Create SO]
+2020-12-09 10:30:04,560 INFO  [log] 1819
+2020-12-09 10:30:04,563 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:04,563 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2020-12-09 10:30:04,565 INFO  [SoapUITestCaseRunner] running step [Get SO]
+2020-12-09 10:30:44,101 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:44,102 INFO  [SoapUITestCaseRunner] running step [GetSOByID]
+2020-12-09 10:30:45,164 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:45,164 INFO  [SoapUITestCaseRunner] running step [GetSOStatus]
+2020-12-09 10:30:46,145 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:46,146 INFO  [SoapUITestCaseRunner] running step [CancelSO]
+2020-12-09 10:30:47,128 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-12-09 10:30:47,129 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_012], time taken: 43934ms, status: FINISHED
+2020-12-09 10:30:47,143 INFO  [log] Status =FINISHED, time taken to complete execution is 43934 ms
+2020-12-09 10:30:47,171 INFO  [log] number of test steps executed are 6
+2020-12-09 10:30:47,172 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [TC_012_GroovyExecution], time taken: 44055ms, status: FINISHED
+2020-12-09 10:30:47,182 INFO  [SoapUITestCaseRunner] Project [SalesOrderManagement] finished with status [FINISHED] in 224493ms
